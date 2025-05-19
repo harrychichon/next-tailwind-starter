@@ -1,6 +1,7 @@
 {
   "name": "next-tailwind-starter",
   "version": "1.0.0",
+  "prettier": "prettier-config-harry",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -20,6 +21,7 @@
     "postcss": "^8.0.0",
     "prettier": "^3.0.0",
     "prettier-plugin-tailwindcss": "^0.5.6",
+    "prettier-config-harry": "^1.0.1",
     "tailwindcss": "^3.0.0",
     "typescript": "^5.0.0"
   },
